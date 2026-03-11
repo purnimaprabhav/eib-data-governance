@@ -1,0 +1,19 @@
+# Core AI & NLP
+spacy==3.7.4
+sentence-transformers==2.7.0
+presidio-analyzer==2.2.353
+
+# Data Handling
+pandas==2.2.1
+numpy<2.0.0
+
+# Dashboard & Testing
+streamlit==1.32.0
+pytest==8.0.0
+
+# Deployment
+python-dotenv==1.0.1
+
+
+torch==2.2.2
+
